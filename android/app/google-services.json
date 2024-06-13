@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150911091241",
+    "project_id": "newsletter-c2d6f",
+    "storage_bucket": "newsletter-c2d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150911091241:android:9343be771d4d681355d238",
+        "android_client_info": {
+          "package_name": "com.example.newsletter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFuCbUEQ46zMiP5LvgJzyRt-xZr22Go0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
